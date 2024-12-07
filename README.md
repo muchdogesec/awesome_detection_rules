@@ -1,6 +1,8 @@
 # Awesome Detection Rules
 
-A curated list of detection content we created when building [SIEM Rules, your detection engineering AI assistant](https://www.siemrules.com/).
+A curated list of detection rule sources.
+
+We built this during our research for [SIEM Rules, your detection engineering AI assistant](https://www.siemrules.com/).
 
 [You can find a copy of the following table in a GSheet here](https://docs.google.com/spreadsheets/d/1-vmQXxTigdF37-qZhwvpWwCBO4iU4mA-eq2iKtpUSjg/edit?usp=sharing).
 
